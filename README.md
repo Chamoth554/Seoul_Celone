@@ -22,7 +22,6 @@ Whether you’re a beginner or just exploring Korean culture, Seoul Celone helps
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57c143bc-65bb-4a45-a0c7-ab91e3efe761" alt="Seoul Celone Screenshot 1" width="230" style="margin:10px; border-radius:12px;" />_
   <img src="https://github.com/user-attachments/assets/58706c3d-e2dd-4164-9060-af37ffd8e022" alt="Seoul Celone Screenshot 2" width="230" style="margin:10px; border-radius:12px;" />_
-  <img src="https://github.com/user-attachments/assets/0af7c2bc-d15e-4621-b159-b59adf43b87a" alt="Seoul Celone Screenshot 3" width="230" style="margin:10px; border-radius:12px;" />_
   <img src="https://github.com/user-attachments/assets/5b618e0c-f827-4888-96e1-477f47ef51ce" alt="Seoul Celone Screenshot 4" width="230" style="margin:10px; border-radius:12px;" />
 </p>
 
@@ -39,18 +38,14 @@ Whether you’re a beginner or just exploring Korean culture, Seoul Celone helps
 - 🎨 Minimal, elegant, and modern UI  
 
 ---
+## 📲 Download
+
 <p align="center">
-  <a href="YOUR_APK_LINK_HERE" style="
-      display:inline-block;
-      background-color:#1E90FF;
-      color:white;
-      padding:12px 25px;
-      border-radius:8px;
-      text-decoration:none;
-      font-weight:bold;
-      font-size:16px;
-      margin-top:15px;
-  ">
-    Download APK
+  <a href="https://github.com/Chamoth554/Seoul_Celone/releases/tag/v1.0.0" target="_blank">
+    <img src="https://img.shields.io/badge/Download-App-blue?style=for-the-badge&logo=github" alt="Download Seoul Celone" />
   </a>
 </p>
+
+> Click the button above to download the latest release of **Seoul Celone** (APK or ZIP) from GitHub.
+
+
